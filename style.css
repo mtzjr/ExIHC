@@ -7,7 +7,7 @@ html, body, figure, img, div, input, textarea, p, h1, h2, h3, h4, h5, h6, ul, li
 }
 
 header div {
-    background-image: url('./banner2.png');
+    background-image: url('banner2.png');
 }
 
 header div h1 {
